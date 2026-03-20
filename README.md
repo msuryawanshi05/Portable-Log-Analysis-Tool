@@ -46,9 +46,7 @@ The project was recognized and awarded **Second Prize** at the SIH Internal Hack
 
 <div align="center">
 
-[![Watch Demo](https://img.youtube.com/vi/0CafFNWY91Q/maxresdefault.jpg)](https://youtu.be/0CafFNWY91Q)
-
-▶️ **[Click to Watch Demo Video](https://youtu.be/0CafFNWY91Q)**
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/0CafFNWY91Q)
 
 </div>
 
